@@ -39,7 +39,7 @@ https://your-backend.up.railway.app
 
 ## 🧪Jalankan Secara Lokal
 #1. Clone Repo
-git clone https://github.com/mulyani07/backend.git
+git clone https://github.com/mulyani07/backend1.git
 cd backend
 # 2. Install Dependensi
 npm install
