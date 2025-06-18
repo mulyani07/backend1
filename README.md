@@ -6,7 +6,7 @@ Ini adalah backend dari aplikasi **Job Portal** yang dibangun menggunakan **Node
 
 ## 🔗 Repository
 
-👉 [GitHub - backend](https://github.com/mulyani07/backend.git)
+👉 [GitHub - backend](https://github.com/mulyani07/backend1.git)
 
 ---
 
